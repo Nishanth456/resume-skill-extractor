@@ -102,4 +102,4 @@ That's it! 🎉 You're all set to start extracting structured data from resumes 
 
 ### 📄 License
 
-This project is licensed under the [MIT License](LICENSE)
+This project is licensed under the [[MIT License](https://github.com/Nishanth456/resume-skill-extractor/blob/main/LICENSE)](LICENSE)
