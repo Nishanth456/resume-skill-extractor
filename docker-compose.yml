@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  resume-extractor-app:
+    image: resume-skill-extractor
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./resumes_data:/app/resumes_data
